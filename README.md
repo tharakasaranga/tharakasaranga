@@ -92,11 +92,17 @@
 
 ---
 
-### 🚀 Projects & Contributions:
-- 🌟 **Career Fair Management System** - A full-fledged web platform to connect students and employers  
-- 📱 **Real-Time Heart Rate Monitoring App** - A mobile app integrating IoT for real-time health monitoring  
-- 🎯 **To-Do List App** - A feature-rich React Native app with filtering, searching, and prioritization  
-- ⚡ **University Attendance Management System** - Java-based system with MySQL backend  
+<h3 align="left">🛠️ Projects:</h3>
+<ul>
+  <li><b>📌 Career Fair Management System</b> - A complete web-based system for managing career fairs, including student registrations, company profiles, job applications, and reporting.</li>
+  <li><b>📌 Todo List App</b> - A feature-rich React Native app with task filtering, editing, prioritization, and persistent storage.</li>
+  <li><b>📌 Bank ATM System</b> - A secure Java-based ATM management system implementing authentication, transactions, and data security.</li>
+  <li><b>📌 Airline Booking & Cancellation System</b> - A web-based airline ticket booking and cancellation system with real-time seat availability.</li>
+  <li><b>📌 Heart Rate Monitoring App</b> - A real-time heart rate monitoring app integrated with ESP32 and GSM module for emergency alerts.</li>
+  <li><b>📌 Attendance Management System</b> - A university-level attendance system built with Java, MVC architecture, and MySQL database.</li>
+</ul>
+
+
 
 ---
 
