@@ -9,7 +9,6 @@
 - 🎓 **Computer Science Undergraduate** at the **University of Jaffna**  
 - 💡 **Passionate** about **Web & Mobile App Development**  
 - ⚡ Skilled in **MERN Stack, PHP, MySQL, MongoDB, Java, Python, React Native**  
-- 🔥 Strong interest in **AI, Cloud Computing & UI/UX Design**  
 - 💬 Ask me about **Java, Web Development, Database Management**  
 - 🌱 Currently learning **DevOps & Advanced React Native Development**  
 - 📫 Reach me at **tharakasaranga755@gmail.com**  
